@@ -20,5 +20,3 @@ I dropped duplicates, cleaned missing values, and selected essential columns fro
 
 ## EDA
 ![Figure 1](https://github.com/alison126/Alison-s-Projects/blob/feature-A/figures/download.png?raw=true)
-
-![Figure 1](https://github.com/alison126/Alison-s-Projects/blob/feature-A/figures/download.png?raw=true)
