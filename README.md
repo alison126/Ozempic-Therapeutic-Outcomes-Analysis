@@ -14,3 +14,9 @@ In this study, I explore Ozempic’s impact on obesity and hypertension recovery
 Medical claims: https://drive.google.com/file/d/1U0dwkliBw5b0Qe-K4blUQJtIMRI_ViTi/view?usp=sharing
 Prescriptions: https://drive.google.com/file/d/1C8-uC4P5w3vI-zV5_LV0EOnHQX22XWut/view?usp=drive_link
 heart_2020: From the National Heart, Lung, and Blood Institute, which contains critical factors like obesity, lifestyle, and smoking
+
+## Data cleansing and Merging
+I dropped duplicates, cleaned missing values, and selected essential columns from each dataset. I created an age group variable for better EDA and as a primary key for merging. The heart_2020 dataset was refined to focus on health-related features like BMI and sleep time. After merging the datasets, I concentrated on patients aged 40 to 75, including key conditions like hypertension (I10) and obesity (E66), and added a new age-based column in the prescription dataset.
+
+## EDA
+![Figure 1](https://github.com/alison126/Alison-s-Projects/blob/feature-A/figures/download.png?raw=true)
