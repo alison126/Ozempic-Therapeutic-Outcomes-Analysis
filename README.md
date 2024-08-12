@@ -1,6 +1,7 @@
 # Ozempic's Therapeutic Outcomes on Obesity and Hypertension
 
-##### foo <font color='red'>Key Words: Machine Learning, Predictive Modeling, Double Random Forest, Double Lasso, Logistic Regression, Causal Analysis </font> foo
+##### <font color='red'>Key Words: Machine Learning, Predictive Modeling, Double Random Forest, Double Lasso, Logistic Regression, Causal Analysis </font>
+<span style="color: green"> Key Words: Machine Learning, Predictive Modeling, Double Random Forest, Double Lasso, Logistic Regression, Causal Analysis </span>
 
 ## Summary
 This project analyzes Ozempic's market impact and therapeutic effectiveness in treating obesity and hypertension. Through comprehensive EDA and predictive modeling, the study identifies key variables influencing patient recovery and uncovers significant disparities in insurance reimbursements across states and demographics. These insights highlight opportunities for targeted business strategies, emphasizing the importance of data-driven decisions in healthcare. The findings also suggest potential for Novo Nordisk to advocate for equitable healthcare policies and develop patient support programs, reinforcing the role of analytics in pharmaceutical innovation.
