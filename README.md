@@ -16,6 +16,3 @@ heart_2020: From the National Heart, Lung, and Blood Institute, which contains c
 
 ## Data cleansing and Merging
 I dropped duplicates, cleaned missing values, and selected essential columns from each dataset. I created an age group variable for better EDA and as a primary key for merging. The heart_2020 dataset was refined to focus on health-related features like BMI and sleep time. After merging the datasets, I concentrated on patients aged 40 to 75, including key conditions like hypertension (I10) and obesity (E66), and added a new age-based column in the prescription dataset.
-
-## Exploratory Data Analysis (EDA)
-![Figure 1](https://github.com/alison126/Alison-s-Projects/blob/feature-A/figures/download.png?raw=true)
